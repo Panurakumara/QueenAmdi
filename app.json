@@ -1,16 +1,16 @@
 {
-    "name": "Queen Amdi 3.6.2v",
-    "description": "Queen Amdi is a chat bot for WhatsApp. 💃🏻❤️",
+    "name": "Cozmo WhatsApp Bot",
+    "description": "The Cozmo Bot Is The Best WhatsApp Chat Bot",
     "keywords": [
-        "Queen Amdi",
+        "Cozmo Bot",
         "WhatsApp",
         "User Bot",
         "Chat bot",
         "Button bot",
-        "Black Amda"
+        "A_S_P"
     ],
     "website": "https://amdaniwasa.com",
-    "logo": "https://amdaniwasa.com/assets/QAAppjson.gif",
+    "logo": "https://i.ibb.co/vHDLxVT/4c434635310ccef5d2e5861a5cc12a5f.jpg",
     "success_url": "https://dashboard.heroku.com/apps/",
     "stack": "container",
     "env":{
@@ -31,7 +31,7 @@
         "ALIVE_LOGO": {
             "description": "Picture with alive message. Paste an image direct link or do '.setalive' command after deploying the bot.",
             "required": true,
-            "value": "https://i.ibb.co/cQrnsXq/Queen-Amdi-Alive.jpg"
+            "value": "https://i.ibb.co/vHDLxVT/4c434635310ccef5d2e5861a5cc12a5f.jpg"
         },
         "ALIVE_MESSAGE": {
             "description": "The message that appears when typing the '.alive' command. If you do not want to change it, keep 'default'.",
